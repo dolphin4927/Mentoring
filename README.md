@@ -7,5 +7,6 @@
 
   
 ### 💻 문제 목록
-##### Barkingdog님의 강의노트를 참조하였습니다[**문제 순서**](https://github.com/encrypted-def/basic-algo-lecture)
+##### Barkingdog님의 강의노트를 참조하였습니다. 
+##### [**문제 순서**](https://github.com/encrypted-def/basic-algo-lecture)
 ##### [**문제집**](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
