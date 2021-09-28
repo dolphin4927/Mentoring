@@ -1,4 +1,3 @@
-##### **이 그룹은 비상업적 용도로 사용됩니다**
 # ✏️ **코딩테스트 멘티 문제풀이 업로드 Repository**
 ### **Code-Test 멘티 그룹**
 
@@ -25,3 +24,8 @@
 ##### Barkingdog님의 강의노트를 참조하였습니다.
 ##### [**문제 순서**](https://github.com/encrypted-def/basic-algo-lecture)
 ##### [**문제집**](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+
+
+
+  
+##### **이 그룹은 비상업적 용도로 사용됩니다**
