@@ -25,7 +25,7 @@
 ##### [**문제 순서**](https://github.com/encrypted-def/basic-algo-lecture)
 ##### [**문제집**](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
-###추가적으로 공부할 때 도움되는 문제집&사이트 모음
+### 추가적으로 공부할 때 도움되는 문제집&사이트 모음
 * 기본
 * * [**나동빈 - 이것이 취업을 위한 코딩테스트다 with python**](https://github.com/ndb796/python-for-coding-test)
 * * [**BarkingDogg**](https://github.com/encrypted-def/basic-algo-lecture)
