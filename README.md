@@ -27,12 +27,12 @@
 
 ### 추가적으로 공부할 때 도움되는 문제집&사이트 모음
 * 기본
-* * [**나동빈 - 이것이 취업을 위한 코딩테스트다 with python**](https://github.com/ndb796/python-for-coding-test)
-* * [**BarkingDogg**](https://github.com/encrypted-def/basic-algo-lecture)
+  * [**나동빈 - 이것이 취업을 위한 코딩테스트다 with python**](https://github.com/ndb796/python-for-coding-test)
+  * [**BarkingDogg**](https://github.com/encrypted-def/basic-algo-lecture)
 * 다지기
-* * [**Baekjoon 코딩테스트 대비 문제집**](https://github.com/tony9402/baekjoon)
+  * [**Baekjoon 코딩테스트 대비 문제집**](https://github.com/tony9402/baekjoon)
 * 심화
-* * [**코테 스터디 그룹**](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+  * [**코테 스터디 그룹**](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
 
 
   
