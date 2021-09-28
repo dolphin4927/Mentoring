@@ -25,7 +25,10 @@
 
 
 
+### 이외 추가
 
+| 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: |
 | 2752 | [세수정렬](https://www.acmicpc.net/problem/2752) | [정답 코드](../0x02/solutions/2752.cpp), [별해 1](../0x02/solutions/2752_1.cpp) |
 | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [정답 코드](../0x02/solutions/2480.cpp), [별해 1](../0x02/solutions/2480_1.cpp) |
 | 2490 | [윷놀이](https://www.acmicpc.net/problem/2490) | [정답 코드](../0x02/solutions/2490.cpp) |
