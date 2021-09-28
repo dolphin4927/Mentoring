@@ -5,7 +5,7 @@
   * 🧲 [**Pull Request 작성 규칙**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/wiki/%F0%9F%A7%B2-Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 문제 목록에서 풀이한 자신의 코드를 업로드해 주세요.
 
 
-  *💻 문제 목록
+#💻 문제 목록
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -26,7 +26,7 @@
 
 
 
-  | 2752 | [세수정렬](https://www.acmicpc.net/problem/2752) | [정답 코드](../0x02/solutions/2752.cpp), [별해 1](../0x02/solutions/2752_1.cpp) |
+| 2752 | [세수정렬](https://www.acmicpc.net/problem/2752) | [정답 코드](../0x02/solutions/2752.cpp), [별해 1](../0x02/solutions/2752_1.cpp) |
 | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [정답 코드](../0x02/solutions/2480.cpp), [별해 1](../0x02/solutions/2480_1.cpp) |
 | 2490 | [윷놀이](https://www.acmicpc.net/problem/2490) | [정답 코드](../0x02/solutions/2490.cpp) |
 | 2576 | [홀수](https://www.acmicpc.net/problem/2576) | [정답 코드](../0x02/solutions/2576.cpp) |
